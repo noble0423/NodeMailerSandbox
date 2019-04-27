@@ -1,0 +1,22 @@
+{
+  "name": "nodemailersandbox",
+  "version": "1.0.0",
+  "description": "Sandbox to checkout nodeMailer",
+  "main": "nodeMailer.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/noble0423/NodeMailerSandbox.git"
+  },
+  "author": "ryan noble",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/noble0423/NodeMailerSandbox/issues"
+  },
+  "homepage": "https://github.com/noble0423/NodeMailerSandbox#readme",
+  "dependencies": {
+    "nodemailer": "^6.1.1"
+  }
+}
